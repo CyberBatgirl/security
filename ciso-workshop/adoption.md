@@ -44,7 +44,7 @@ Meeting these objectives allows organizations to accelerate business enablement 
       :::image type="content" source="media/adoption/chief-information-security-officer-workshop.png" alt-text="A diagram of the CISO Workshop at a high level" lightbox="media/adoption/chief-information-security-officer-workshop.png":::
    :::column-end:::
    :::column span="2":::
-      [**The Chief Information Security Officer (CISO) Workshop**](ciso-workshop.md)
+      [**The Chief Information Security Officer (CISO) Workshop**](/security/ciso-workshop/the-ciso-workshop)
 
       A collection of security learnings, principles, and recommendations for modernizing security in your organization in both PowerPoint and video form.
    :::column-end:::
@@ -57,7 +57,7 @@ Meeting these objectives allows organizations to accelerate business enablement 
       This architecture shows you how Microsoft security capabilities can integrate with other Microsoft and 3rd party platforms. The MCRA is provided in the form of PowerPoint slides with notes.
    :::column-end:::
    :::column span="":::
-      :::image type="content" source="media/adoption/microsoft-cybersecurity-reference-architecture.png" alt-text="A diagram showing the MCRA at a high level" lightbox="media/adoption/microsoft-cybersecurity-reference-architecture.png":::
+      :::image type="content" source="media/adoption/microsoft-cybersecurity-reference-joflorearchitecture.png" alt-text="A diagram showing the MCRA at a high level" lightbox="media/adoption/microsoft-cybersecurity-reference-architecture.png":::
    :::column-end:::
 :::row-end:::
 
